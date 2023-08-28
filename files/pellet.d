@@ -1,0 +1,12 @@
+.\pellet.o: myFunctions\pellet.c
+.\pellet.o: myFunctions\../GLCD/GLCD.h
+.\pellet.o: D:\Programmi\ARM_PACKS\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h
+.\pellet.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\pellet.o: D:\Programmi\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\pellet.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\pellet.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\pellet.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\pellet.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\pellet.o: D:\Programmi\ARM_PACKS\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h
+.\pellet.o: myFunctions\myFunctions.h
+.\pellet.o: myFunctions\../timer/timer.h
