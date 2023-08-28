@@ -6,4 +6,5 @@ To start the application on keil microvision, move the file sample.uvprojx into 
 ## The application on the physical board
 ![Pong on physical board](./images/physical_board.gif)
 ## The application on the emulator
+Note: On the emulator the paddle seems to glitch, but the problem is not present on the physical board!
 ![Pong on the emulator](./images/emulator.gif)
