@@ -1,0 +1,13 @@
+.\score.o: myFunctions\score.c
+.\score.o: myFunctions\../GLCD/GLCD.h
+.\score.o: D:\Programmi\ARM_PACKS\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h
+.\score.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\score.o: D:\Programmi\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\score.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\score.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\score.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\score.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\score.o: D:\Programmi\ARM_PACKS\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h
+.\score.o: myFunctions\myFunctions.h
+.\score.o: D:\Programmi\ARM\ARM\ARMCC\Bin\..\include\math.h
+.\score.o: D:\Programmi\ARM\ARM\ARMCC\Bin\..\include\stdio.h
