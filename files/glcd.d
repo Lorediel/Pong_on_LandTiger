@@ -1,0 +1,12 @@
+.\glcd.o: GLCD\GLCD.c
+.\glcd.o: GLCD\GLCD.h
+.\glcd.o: D:\Programmi\ARM_PACKS\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h
+.\glcd.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\glcd.o: D:\Programmi\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\glcd.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\glcd.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\glcd.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\glcd.o: D:\Programmi\ARM_PACKS\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\glcd.o: D:\Programmi\ARM_PACKS\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h
+.\glcd.o: GLCD\AsciiLib.h
+.\glcd.o: D:\Programmi\ARM\ARM\ARMCC\Bin\..\include\string.h
